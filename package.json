@@ -1,0 +1,25 @@
+{
+  "name": "snippets-jest",
+  "displayName": "Snippets Jest",
+  "description": "Code snippets for Jest",
+  "version": "0.0.1",
+  "publisher": "goran-mrzljak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzli-vscode-extensions/snippets-jest"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
