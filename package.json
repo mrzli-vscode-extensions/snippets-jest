@@ -2,7 +2,7 @@
   "name": "snippets-jest",
   "displayName": "Snippets Jest",
   "description": "Code snippets for Jest",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",

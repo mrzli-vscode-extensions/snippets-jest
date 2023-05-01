@@ -6,8 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [0.0.4] - 2023-04-04
+## [0.0.3] - 2023-05-01
 
-### Added
+### Changed
 
-- Descriptions for snippets.
+- Use for-of loop instead of `forEach` in `iteach` snippet.
